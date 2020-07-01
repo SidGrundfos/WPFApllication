@@ -1,0 +1,17 @@
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\Wpf.App.UI.csprojAssemblyReference.cache
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\Wpf.App.UI_MarkupCompile.cache
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\Wpf.App.UI_MarkupCompile.lref
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\bin\Debug\netcoreapp3.0\Wpf.App.UI.exe
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\bin\Debug\netcoreapp3.0\Wpf.App.UI.deps.json
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\bin\Debug\netcoreapp3.0\Wpf.App.UI.runtimeconfig.json
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\bin\Debug\netcoreapp3.0\Wpf.App.UI.runtimeconfig.dev.json
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\bin\Debug\netcoreapp3.0\Wpf.App.UI.dll
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\bin\Debug\netcoreapp3.0\Wpf.App.UI.pdb
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\Wpf.App.UI.g.resources
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\Wpf.App.UI.AssemblyInfoInputs.cache
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\Wpf.App.UI.AssemblyInfo.cs
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\Wpf.App.UI.dll
+C:\Users\910329\source\repos\Personal\WPF.App\src\Wpf.App.UI\obj\Debug\netcoreapp3.0\Wpf.App.UI.pdb

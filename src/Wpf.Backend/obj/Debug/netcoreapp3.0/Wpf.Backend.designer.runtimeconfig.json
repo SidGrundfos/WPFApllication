@@ -1,0 +1,19 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.0",
+    "framework": {
+      "name": "Microsoft.AspNetCore.App",
+      "version": "3.0.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\910329\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\910329\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "configProperties": {
+      "System.GC.Server": true,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
